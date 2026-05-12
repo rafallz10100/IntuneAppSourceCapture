@@ -1,8 +1,5 @@
 # 🧰 Intune App Source Capture
 
-<p align="center">
-  <img src="assets/intune-capture-icon.svg" alt="Intune App Source Capture icon" width="120" />
-</p>
 
 <p align="center">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white">
