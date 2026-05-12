@@ -67,7 +67,7 @@ The captured data is written into three subfolders:
 2. Start the script:
 
 ```powershell
-.\win32IntuneRecover.Export.ps1
+.\IntuneAppSourceCapture.ps1
 ```
 
 3. In the GUI, select an output directory.
